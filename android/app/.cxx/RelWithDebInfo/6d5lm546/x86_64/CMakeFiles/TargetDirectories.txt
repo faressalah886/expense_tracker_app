@@ -1,0 +1,2 @@
+/Users/faressalah/Desktop/work/flutter_projects/expense_tracker_app/android/app/.cxx/RelWithDebInfo/6d5lm546/x86_64/CMakeFiles/edit_cache.dir
+/Users/faressalah/Desktop/work/flutter_projects/expense_tracker_app/android/app/.cxx/RelWithDebInfo/6d5lm546/x86_64/CMakeFiles/rebuild_cache.dir

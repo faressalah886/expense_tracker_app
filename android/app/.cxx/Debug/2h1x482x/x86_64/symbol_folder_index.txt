@@ -1,0 +1,1 @@
+/Users/faressalah/Desktop/work/flutter_projects/expense_tracker_app/build/app/intermediates/cxx/Debug/2h1x482x/obj/x86_64
