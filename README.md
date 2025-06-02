@@ -25,6 +25,15 @@ Keep your budget in check by adding, editing, and categorizing your expenses, an
 
 ## 📸 Screenshots
 
+### Home Screen
+![Home Screen](assets/2.png)
+
+### Expense Entry
+![Expense Entry](assets/3.png)
+
+### Launch Screen
+![Launch Screen](assets/1.png)
+
 
 ## 🛠️ Built With
 
